@@ -58,3 +58,8 @@ jspm_packages/
 # Temporary files
 *.tmp
 *.temp
+
+# PowerPoint files (source material, not needed in repo)
+*.pptx
+*.ppt
+LDBasics.pptx
