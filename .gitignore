@@ -63,3 +63,6 @@ jspm_packages/
 *.pptx
 *.ppt
 LDBasics.pptx
+
+# Cursor Chat Log
+cursor_*
